@@ -17,4 +17,10 @@ To utilize this color style:
 
 The terminal will hot-reload using the new settings. If you have any errors in your settings.json file, it'll tell you.
 
+The MS Original:
+
+![Image of Original Effects](https://docs.microsoft.com/en-us/windows/terminal/images/retro-command-prompt.png)
+
+Modified:
+
 ![Image of Effects](https://i.imgur.com/fwF4ZEk.png)
