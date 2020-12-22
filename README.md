@@ -5,7 +5,7 @@ A retro styled theme for the [Windows Terminal](https://docs.microsoft.com/en-us
 
 Check out the "Profiles.json" file to see what changes need to be made to the settins.json file to use the Retro color scheme by default. I personally have left the *experimental.retroTerminalEffect* off as I dislike the text distortion it produces.
 
-The reasoning for splitting the json across 2 files here was so that it's a bit easier to see what sections need to be placed into the file and where specifically. The Microsoft documentation doesn't exactly do a good job of explaining anything beyond that you need an IBM font.
+The reasoning for splitting the json across 2 files here was so that it's a bit easier to see what sections need to be placed into the settings file and where specifically. The Microsoft documentation doesn't exactly do a good job of explaining anything beyond that you need an IBM font.
 
 To utilize this color style:
 
