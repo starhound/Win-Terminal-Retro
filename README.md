@@ -8,7 +8,7 @@ Check out the "Profiles.json" file to see what changes need to be made to the se
 To utilize this color style:
 
 * Open Windows Terminal
-* Press *CTRL , +*  - all at the same time.
+* Press *CTRL , +* 
 * Copy the Profiles.json content into the "profiles" field, keep in mind if you copy over the "list" field blank you may have issues, I've kept it there as the profiles.json file expects it.
 * Copy and paste the Windows-Retro-Terminal-Settings.json content into the "schemes" field.
 * Save settings.json
