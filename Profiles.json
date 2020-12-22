@@ -1,0 +1,11 @@
+"profiles":
+    {
+      "defaults": {
+        "colorScheme": "Retro",
+        "closeOnExit": true,
+        "fontSize": 12,
+        "fontFace": "Curior New",
+        "cursorShape": "filledBox"
+      },
+        "list": []
+    },
