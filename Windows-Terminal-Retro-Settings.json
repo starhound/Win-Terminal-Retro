@@ -1,5 +1,4 @@
-{
-  "schemes": [
+"schemes": [
     {
       "name": "Retro",
       "background": "#000000",
@@ -21,5 +20,4 @@
       "white": "#00ff00",
       "yellow": "#00ff00"
     }
-  ]
-} 
+]
